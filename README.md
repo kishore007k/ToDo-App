@@ -6,8 +6,7 @@
 
 ### The actual project Gif
 
-<img align="left" alt="kishore007k.com" width="500px" src="https://user-images.githubusercontent.com/34863222/89158937-6d0e1a80-d58c-11ea-930c-b935a6b088c3.gif" />
-
+<img align="left" alt="kishore007k.com" width="500px" src="https://user-images.githubusercontent.com/34863222/89165210-d8a8b580-d595-11ea-8aaa-7d3cb3bf2769.gif" />
 
 <br>
 <br>
